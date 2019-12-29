@@ -4,6 +4,7 @@ Implementation and analysis of a quadrilateral plate element in MATLAB
 **The following is an implemention and analysis of a plate quad element in MATLAB. L = 10 m, t = 100 mm, E = 30 x 106 MPa, and υ = 0.3.**
 
 Analysis inludes permutations of the following:
+
 1.) Supports (in both cases, all perimeter displacements are restrained)
 * Edges are fully clamped (all perimeter rotations are restrained)
 * Edges are simply supported (all perimeter rotations are released)
