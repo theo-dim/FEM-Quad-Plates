@@ -17,11 +17,10 @@ Graphs and tabulations of the normalized center deflection of the plate against 
 
 The exact solutions for the center deflection are provided below:
 
-|  Exact deflection at plate center, w_exact , for υ = 0.3 |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Exact deflection at plate center, w_exact | υ = 0.3 |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 Your deliverable is a report which should include, but does not need to be limited to: the above convergence studies, code changes, code description, deformed geometries, displacement tabulations, stress or stress resultant analyses (in plot and/or tabulated form), and discussions. While an exhaustive set of results is not expected (irrelevant/redundant content will likely cost you points), you should include a sufficient cross-section of results to demonstrate the element performance.
 One report and one set of code are expected per group. Discussion or sharing of work between groups is not permitted. Groups are to contain no more than two students unless permission is received from the instructors. A hard copy of the report is to be submitted in E218 and a single .zip file containing all MATLAB scripts is to be sent to fabieng@princeton.edu by the deadline.
