@@ -17,7 +17,7 @@ Graphs and tabulations of the normalized center deflection of the plate against 
 
 The exact solutions for the center deflection are provided below:
 
-|   |   |   |   |   |
+|  Exact deflection at plate center, w_exact , for υ = 0.3 |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
